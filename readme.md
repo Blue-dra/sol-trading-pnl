@@ -12,5 +12,7 @@ Please fill the private key and publick key with your wallet private key and pub
 and then in the config.ts file please set the limit of the TVL, number of the social sites
 interval between buy and sell and the amount for the each transaction
 
+This bot get the number of social links from metadata using Metaplex.
+And the Pnl is calculated by difference of amount of sell trade Sol and amount of refund Sol.
 
 ###############################################################
